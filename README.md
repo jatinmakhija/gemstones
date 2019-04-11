@@ -1,3 +1,3 @@
 # gemstones
-Screenshot testing using gemini UI tool
+Screenshot comparison testing using gemini UI tool
 Please check.
